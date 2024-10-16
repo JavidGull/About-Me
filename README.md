@@ -11,7 +11,7 @@ Connect with me on LinkedIn: Javid Gull (https://www.linkedin.com/in/jgull)
 Experienced DevOps and Cloud Professional | 20+ Years with Lucent, Alcatel-Lucent, Nokia 
 
 
---
+--------------------------------------------------------------
 Core Expertise:
 
 DevOps: CI/CD implementation, containerization with Docker & Kubernetes, Infrastructure as Code (IaC), comprehensive monitoring & logging, and collaboration tools.
