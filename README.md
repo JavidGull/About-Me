@@ -6,7 +6,7 @@ Over 20+ years of work experience providing highest levels of  DevOps Consultant
 
 Nokia AAA: Expertise as technical project manager (TPM), Architected the customer solution in compliance with the 3GPP standards and solution delivery, Policy flow development,  Implementation and solution integration, documentation and conducted workshops at customer sites, acceptance executions.
 
-Connect with me on LinkedIn: [Javid Gull ](https://www.linkedin.com/in/jgull)](https://www.linkedin.com/in/jgull)
+Connect with me on LinkedIn: Javid Gull (https://www.linkedin.com/in/jgull)
 
 Experienced DevOps and Cloud Professional | 20+ Years with Lucent, Alcatel-Lucent, Nokia 
 
